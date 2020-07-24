@@ -28,8 +28,8 @@ proxies:
     cipher: aes-128-gcm
     password: desperadoj.com_free_proxy_x80j
   - name: 🎵 解锁节点2
-    server: 106.52.127.72
-    port: 19951
+    server: music.griouges.cn
+    port: 39000
     type: http
     username: ""
     password: ""
@@ -37,13 +37,6 @@ proxies:
   - name: 🎵 解锁节点3
     server: taron.top
     port: 100
-    type: http
-    username: ""
-    password: ""
-    tls: false
-  - name: 🎵 解锁节点4
-    server: music.griouges.cn
-    port: 39000
     type: http
     username: ""
     password: ""
@@ -57,7 +50,6 @@ proxy-groups:
       - 🎵 解锁节点1
       - 🎵 解锁节点2
       - 🎵 解锁节点3
-      - 🎵 解锁节点4
   - name: ⚠️ 公益代理，收费请举报并反馈
     type: select
     proxies:
