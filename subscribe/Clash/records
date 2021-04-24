@@ -1,5 +1,5 @@
 #---------------------------------------------------------#
-## 更新：2020-08-03
+## 更新：2020-09-18
 ## 链接：https://lolico.me/subscribe/Clash/config.yaml
 ## 链接：https://lolico.me/2020/03/23/unblock-netease-music/
 ## 注意：此代理完全免费，如遇收费请前往上面的链接反馈并举报卖家
@@ -26,7 +26,7 @@ proxies:
     server: music.desperadoj.com
     port: 30001
     cipher: aes-128-gcm
-    password: desperadoj.com_free_proxy_vrfn
+    password: desperadoj.com_free_proxy_emx2
   - name: 🎵 解锁节点2
     server: music.lolico.me
     port: 39000

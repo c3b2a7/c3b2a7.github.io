@@ -1,5 +1,5 @@
 #---------------------------------------------------------#
-## 更新：2020-09-18
+## 更新：2021-04-24
 ## 链接：https://lolico.me/subscribe/Clash/config.yaml
 ## 链接：https://lolico.me/2020/03/23/unblock-netease-music/
 ## 注意：此代理完全免费，如遇收费请前往上面的链接反馈并举报卖家
@@ -34,13 +34,6 @@ proxies:
     username: ""
     password: ""
     tls: false
-  - name: 🎵 解锁节点3
-    server: taron.top
-    port: 100
-    type: http
-    username: ""
-    password: ""
-    tls: false
 
 proxy-groups:
   - name: 🎸 网易云音乐
@@ -49,7 +42,6 @@ proxy-groups:
       - DIRECT
       - 🎵 解锁节点1
       - 🎵 解锁节点2
-      - 🎵 解锁节点3
   - name: ⚠️ 公益代理，收费请举报并反馈
     type: select
     proxies:
