@@ -1,1 +1,2 @@
-http=111.231.80.168:39000, fast-open=false, udp-relay=false, tag=🎵 解锁节点
+http=114.132.42.163:39888, fast-open=false, udp-relay=false, tag=🎵 解锁节点
+http=111.231.80.168:39000, fast-open=false, udp-relay=false, tag=🎵 解锁节点(备用)
